@@ -1,0 +1,61 @@
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe.config
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.pdb
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Form1.resources
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.exe
+C:\Users\Aluno\Desktop\ultimo projetopa\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.pdb
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe.config
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.exe
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.pdb
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.pdb
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadstrocliente.resources
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Form1.resources
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Properties.Resources.resources
+C:\Users\Aluno\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csproj.GenerateResource.Cache
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe.config
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.exe
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.pdb
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadastroproduto.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadastrocliente.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Form1.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Properties.Resources.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadastroproduto.resources
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadastrocliente.resources
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Form1.resources
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Properties.Resources.resources
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.exe
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe.config
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.pdb
+C:\Users\diego\Desktop\Projetos em c#\ultimoprojetopa-master\ultimoprojetopa-master-versão3\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.pdb
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe.config
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.exe
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.pdb
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.exe
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\bin\Debug\plataformacadastro.pdb
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadastroproduto.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.cadastrocliente.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Form1.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.Properties.Resources.resources
+C:\Users\ADM\Documents\ultimoprojetopa-master\plataformacadastro\plataformacadastro\obj\Debug\plataformacadastro.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\bin\Debug\plataformacadastro.exe.config
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\bin\Debug\plataformacadastro.exe
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\bin\Debug\plataformacadastro.pdb
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.cadastroproduto.resources
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.cadastrocliente.resources
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.Form1.resources
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.Properties.Resources.resources
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.exe
+C:\Users\diego\Desktop\Projetos em c#\plataformacadastro\obj\Debug\plataformacadastro.pdb
